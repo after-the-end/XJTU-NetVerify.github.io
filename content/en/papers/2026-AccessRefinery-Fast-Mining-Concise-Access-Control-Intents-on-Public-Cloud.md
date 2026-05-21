@@ -5,7 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
-research_label = ["synthesis"]
+research_label = ["Synthesis"]
 bibtex = """
 """
 abstract = [
