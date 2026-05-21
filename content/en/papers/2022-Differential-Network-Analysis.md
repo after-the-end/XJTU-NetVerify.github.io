@@ -5,7 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
-research_label = ["Verification"]
+research_label = ["Simulation"]
 bibtex = """@inproceedings{zhang2022differential,
   title={Differential network analysis},
   author={Zhang, Peng and Gember-Jacobson, Aaron and Zuo, Yueshang and Huang, Yuhao and Liu, Xu and Li, Hao},
