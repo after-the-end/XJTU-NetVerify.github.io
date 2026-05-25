@@ -5,7 +5,7 @@ type = 'paper'
 layout = 'paper'
 draft = false
 
-research_label = ["", ""]
+research_label = ["Verification"]
 bibtex = """@article{zhang2020verifying,
   title={Verifying rule enforcement in software defined networks with REV},
   author={Zhang, Peng and Wu, Hui and Zhang, Dan and Li, Qi},
