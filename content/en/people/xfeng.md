@@ -16,8 +16,11 @@ image = '/people/xfeng/photo.jpg'
 email = 'fxxowo@163.com'
 github = 'fxxowo'
 
+# Verification | Simulation | Synthesis
+research_label = ["Simulation"]
+
 [[introduction]]
-  content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang. My research interests are majorly in DataPlane Verification and Distributed Network Simulation." 
+  content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Peng Zhang. My research interests are majorly in Data Plane Verification and Distributed Network Simulation." 
 
 [[research]]
   interest = 'Network Verification' 
@@ -41,7 +44,7 @@ github = 'fxxowo'
   icon = true
 
 [[award]]
-  title = 'National ScholarShip, 2023'
+  title = 'National Scholarship, 2023'
 +++
 
 
