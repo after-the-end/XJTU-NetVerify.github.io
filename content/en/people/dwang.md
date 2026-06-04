@@ -43,6 +43,13 @@ research_label = ["Verification", "Simulation"]
     degree = 'B.E. in Computer Science'
     time = '2017.9 - 2021.6'
 
+[[service]]
+    commission = "Program Committee"
+    conference = ["ACM SIGCOMM FMANO Workshop (2026)"]
+[[service]]
+    commission = "Artifact Evaluation Committee"
+    conference = ["ACM CoNEXT (2026)"]
+
 [[practice]]
     enterprise = 'ByteDance Ltd.'
     work = 'Network Infrastructure Department'
