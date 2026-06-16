@@ -1,6 +1,6 @@
 +++
 title = 'Zhenrong Gu'
-date = 2024-04-30T14:27:08+08:00
+date = 2024-04-30T14:25:08+08:00
 draft = false
 alumni = false
 

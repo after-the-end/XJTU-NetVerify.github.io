@@ -2,7 +2,7 @@
 title = 'Ze Xia'
 date = 2023-04-30T22:22:00+08:00
 draft = false
-alumni = false
+alumni = true
 
 type = 'people'
 layout = 'people'
@@ -12,6 +12,7 @@ name_cn = '夏泽'
 name_en = 'Ze Xia'
 degree = 'Master Student'
 image = '/people/zxia/photo.jpg'
+work = "ByteDance"
 
 email = 'billxia135@gmail.com'
 github = 'bill-xia'
