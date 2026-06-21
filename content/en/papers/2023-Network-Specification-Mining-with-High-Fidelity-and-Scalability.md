@@ -23,6 +23,7 @@ ccf = "B"
 publish = "conference"
 pdf = '/papers/NetMiner/NetMiner_ICNP.pdf'
 slide = '/papers/NetMiner/NetMiner_ICNP_Slides.pdf'
+web = 'https://ieeexplore.ieee.org/abstract/document/10355598'
 [[paper.author]]
     name = 'Ning Kang'
     id = "nkang"

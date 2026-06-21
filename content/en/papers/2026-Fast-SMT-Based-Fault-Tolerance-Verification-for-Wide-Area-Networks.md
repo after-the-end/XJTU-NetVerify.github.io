@@ -18,6 +18,7 @@ code = 'https://github.com/XJTU-NetVerify/veriboost'
 pdf='/papers/VeriBoost/veriboost_final_version.pdf'
 slide='/papers/VeriBoost/veriboost_slides.pdf'
 video = 'https://www.youtube.com/watch?v=cYBjmJfICG0'
+web = 'https://link.springer.com/chapter/10.1007/978-3-032-26220-2_7'
 top = true
 [[paper.author]]
     name = 'Ning Kang'

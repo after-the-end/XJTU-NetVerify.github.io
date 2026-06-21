@@ -15,7 +15,10 @@ publisher = "Proceedings of ACM FSE '26"
 ccf = "A"
 publish = "conference"
 pdf='/papers/AccessRefinery/accessrefinery_final_version.pdf'
+video = 'https://www.youtube.com/watch?v=ILUue00Bc_s&t=18s'
+slide ='/papers/AccessRefinery/accessrefinery_slides.pdf'
 code = 'https://github.com/XJTU-NetVerify/accessrefinery'
+web = 'https://conf.researchr.org/details/fse-2026/fse-2026-research-papers/142/AccessRefinery-Fast-Mining-Concise-Access-Control-Intents-on-Public-Cloud'
 top = true
 [[paper.author]]
     name = 'Ning Kang'

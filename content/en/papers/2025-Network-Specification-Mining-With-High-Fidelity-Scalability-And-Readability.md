@@ -29,6 +29,7 @@ pdf = '/papers/NetMiner/NetMiner_TON.pdf'
 code = ''
 slide = ''
 video = ''
+web = 'https://ieeexplore.ieee.org/document/11178104'
 top = true
 [[paper.author]]
     name = 'Ning Kang'
